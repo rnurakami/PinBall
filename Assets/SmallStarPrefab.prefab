@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 136210916781794346}
   - component: {fileID: 23483585988765978}
   m_Layer: 0
-  m_Name: SmallStar
+  m_Name: SmallStarPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

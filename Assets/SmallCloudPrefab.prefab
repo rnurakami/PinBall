@@ -24,7 +24,7 @@ GameObject:
   - component: {fileID: 64445683166047604}
   - component: {fileID: 114679301224059060}
   m_Layer: 0
-  m_Name: SmallCloud
+  m_Name: SmallCloudPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
