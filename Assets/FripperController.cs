@@ -31,7 +31,7 @@ public class FripperController : MonoBehaviour {
                 {
                     SetAngle(this.flickAngle);
                 }
-                if (touch.phase == TouchPhase.Ended)
+                if (touch.phase == TouchPhase.Ended || touch.phase == TouchPhase.Moved)
                 {
                     SetAngle(this.defaultAngle);
                 }
